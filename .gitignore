@@ -1,4 +1,7 @@
 # Visual Studio specific files/folders
-.vs/
-TodoAPI/bin/
-TodoAPI/obj/
+API/.vs/
+API/TodoAPI/bin/
+API/TodoAPI/obj/
+App/.vs/
+App/TodoApp/bin/
+App/TodoApp/obj/
